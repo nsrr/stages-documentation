@@ -1,6 +1,6 @@
 # About
 
-STAGES!
+STAGES! Tk.
 
 ## Citation and acknowledgement
 
