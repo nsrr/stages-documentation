@@ -18,10 +18,13 @@ All data, samples, analytic tools, and supporting documentation will be made pub
 When using this dataset, please cite the following:
 
 > [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
->
+
+Researchers should acknowledge the STAGES study in the following way: **The author line will include "... and the STAGES cohort investigator group"**.
 
 Please include the following text in the Acknowledgements:
 
+> This research has been conducted using the STAGES - Stanford Technology, Analytics and Genomics in Sleep Resource funded by the Klarman Family Foundation. The investigators of the STAGES study contributed to the design and implementation of the STAGES cohort and/or provided data and/or collected biospecimens, but did not necessarily participate in the analysis or writing of this report. The full list of STAGES investigators can be found at the project website.
+>
 > The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
 
 ## Data overview
@@ -32,6 +35,6 @@ Please include the following text in the Acknowledgements:
 
 - [STAGES Manual of Procedures (PDF)](:files_path:/documentation/STAGES MOP 2018-08-09.pdf)
 
-## Change log
+## Changelog
 
 - Tk
