@@ -11,6 +11,8 @@ The Stanford Technology Analytics and Genomics in Sleep (STAGES) study is a pros
 
 All data, samples, analytic tools, and supporting documentation will be made publicly available for use by any interested researcher, provided a request is submitted to the National Sleep Research Resource and approved.
 
+The National Sleep Research Resource is grateful to the STAGES team for sharing these data.
+
 ## Data preamble and access restrictions
 
 ## Citation and acknowledgement
@@ -31,7 +33,9 @@ Please include the following text in the Acknowledgements:
 
 ## Data overview
 
-- Tk
+**[/datasets](:files_path:/datasets)** <br/> Data from the Alliance Sleep Questionnaire and other covariates.
+
+**/polysomnography** <br/> Raw physiological data from overnight polysomnography.
 
 ## Protocols and manuals
 
@@ -39,4 +43,5 @@ Please include the following text in the Acknowledgements:
 
 ## Changelog
 
-- Tk
+*April 2021*
+- STAGES dataset published to sleepdata.org
