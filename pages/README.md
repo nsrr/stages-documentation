@@ -15,6 +15,8 @@ The National Sleep Research Resource is grateful to the STAGES team for sharing 
 
 ## Data preamble and access restrictions
 
+The STAGES dataset is available for non-commercial and commercial use.
+
 ## Citation and acknowledgement
 
 When using this dataset, please cite the following:
