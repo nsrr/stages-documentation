@@ -37,7 +37,7 @@ Please include the following text in the Acknowledgements:
 
 **[/datasets](:files_path:/datasets)** <br/> Data from the Alliance Sleep Questionnaire and other covariates.
 
-**/polysomnography** <br/> Raw physiological data from overnight polysomnography.
+**[/original](:files_path:/original)** <br/> Data and documentation as received from the STAGES group. Includes polysomnography (EDF), questionnaire, medication, and other data. **Everything in this folder is provided "as-is".**
 
 ## Protocols and manuals
 
