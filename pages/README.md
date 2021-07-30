@@ -35,7 +35,7 @@ Please include the following text in the Acknowledgements:
 
 ## Data overview
 
-**[/datasets](:files_path:/datasets)** <br/> Data from the Alliance Sleep Questionnaire and other covariates.
+**[/datasets](:files_path:/datasets)** <br/> Data from the Alliance Sleep Questionnaire (ASQ). The NSRR team processed parts of the original ASQ data into [a Spout data dictionary](https://github.com/nsrr/stages-data-dictionary). Users can browse [available variables and their distributions here](https://sleepdata.org/datasets/stages/variables/).
 
 **[/original](:files_path:/original)** <br/> Data and documentation as received from the STAGES group. Includes polysomnography (EDF), questionnaire, medication, and other data. **Everything in this folder is provided "as-is".**
 
@@ -45,5 +45,5 @@ Please include the following text in the Acknowledgements:
 
 ## Changelog
 
-*April 2021*
+*July 2021*
 - STAGES dataset published to sleepdata.org
