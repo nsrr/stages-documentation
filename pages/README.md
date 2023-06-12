@@ -45,5 +45,8 @@ Please include the following text in the Acknowledgements:
 
 ## Changelog
 
+*June 2023*
+- Remove PSGs from Mayo Clinic site due to EDF/annotation conversion issues. The NSRR recommends not using Mayo Clinic PSG data until they are reprocessed by the STAGES data contributor at a later date.
+
 *July 2021*
 - STAGES dataset published to sleepdata.org
