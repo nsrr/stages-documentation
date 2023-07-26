@@ -5,9 +5,9 @@ The Stanford Technology Analytics and Genomics in Sleep (STAGES) study is a pros
 - Objective nocturnal sleep polysomnography (PSG) recordings (EEGs, chin and leg EMGs, nasal and oral breathing, chest movements, leg movements, position, EKG). This is the gold standard for sleep evaluation in sleep clinics.
 - Comprehensive subjective sleep symptoms assessment through an on-line sleep questionnaire called the Alliance Sleep Questionnaire (ASQ, developed over 5 years by 5 academic institutions). The questionnaire also includes key medical history questions.
 - Continuous actigraphy over several weeks to get untransformed activity counts (a Huami/Xiaomi actigraph device has been identified and validated against PSG and clinical gold standard Actiwatch)
-- 3-D facial scans to extract craniofacial features predictive of sleep apnea
+- 3-D facial scans to extract craniofacial features predictive of sleep apnea (*not available on NSRR*)
 - On-line neuropsychological assessments and psychovigilance tests (impact of sleep disorders)
-- Medical record data
+- Medical record data (*not available on NSRR*)
 
 All data, samples, analytic tools, and supporting documentation will be made publicly available for use by any interested researcher, provided a request is submitted to the National Sleep Research Resource and approved.
 
@@ -44,6 +44,9 @@ Please include the following text in the Acknowledgements:
 - [STAGES Manual of Procedures (PDF)](:files_path:/documentation/STAGES MOP 2018-08-09.pdf)
 
 ## Changelog
+
+*July 2023*
+- Add note in About section about unavailability of facial scan and medical record data
 
 *June 2023*
 - Remove PSGs from Mayo Clinic site due to EDF/annotation conversion issues. The NSRR recommends not using Mayo Clinic PSG data until they are reprocessed by the STAGES data contributor at a later date.
